@@ -4,7 +4,11 @@ title: Marching into March
 ---
 
 ### What did I do this week?
-I spent the past week learning way more than I had ever hoped to about the Python specifications. For instance why doesn't Python support tail call optimization? Guido van Rossum gives a syntatically-valid-yet-Lovecraftian-horrifying [example](http://neopythonic.blogspot.com.au/2009/04/tail-recursion-elimination.html). Could this be rectified by including a function in its own namespace so that defining a new function with the same name doesn't break recursive calls unless you explicitly change scope? Beats me, I'm just providing a hot take! This is the sort of bush league behavior I expect out of Oracle, not the open source community.
+It was exam week! My takeaway: shoulda memorized the damn APIs.
+
+I spent the past week learning way more than I had ever hoped to about the Python specifications. For instance why doesn't Python support tail call optimization? Guido van Rossum gives a syntatically-valid-yet-Lovecraftian-horrifying [example](http://neopythonic.blogspot.com.au/2009/04/tail-recursion-elimination.html). Could this be rectified by including a function in its own namespace so that defining a new function with the same name doesn't break recursive calls unless you explicitly change scope? Beats me, I'm just providing a hot take! Not optimizing tail calls just feels like something Oracle would do and I hoped the open source community would be better.
+
+I began my infiltration of the Python irc channel. I'm hoping I can convince them that `tuple(iterable)` would be better as `tuple(iterable, *a)` before the semester's over to retroactively recover 5 points on my exam.
 
 ### What is in my way?
 Finding good source material for our project. Discogs.com has great data but doesn't share URIs with dbpedia, which is pretty disappointing. Alas, Pokémon really would be such a good source for this. Creatures, abilities, locations, and items would provide 4 solid tables with plenty of foreign keys to click through... My cat continues to think sitting on my keyboard is the best way to get my attention. While it does get my attention, sometimes I spend an inordinate amount of time hunting down a stray character he's responsible for.
