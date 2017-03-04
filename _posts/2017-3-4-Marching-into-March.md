@@ -23,7 +23,7 @@ _(Ed. Note: total tangent)_ As a pet project I'd like to try my hand making a si
 I think it'd be a pretty interesting exercise in heuristics to break one of the ultimate bosses into more and more component monsters and see for what size collection I'm able to reconstruct it.`(arctan)`
 
 ### What is my experience of this class?
-It's a tale of two curricula: software engineering and the ins-and-outs of Python. We just got Google Cloud Platform credit and will get a primer from some of their engineers next week that I'm pretty hyped for. We will also probably learn about more built-in Python functions. Python: at least it's not Scheme. I like to drag Python, but my friend needed to convert geohashes into lat/lon coordinates he could use in Tableau and I wasn't about to teach him Fortran99 for that (despite its _**superior**_ indexing conventions).
+It's a tale of two curricula: software engineering and the ins-and-outs of Python. We just got Google Cloud Platform credit and will get a primer from some of their engineers next week that I'm pretty hyped for. We will also probably learn about more built-in Python functions. Python: at least it's not Scheme. I like to drag Python, but my friend needed to convert geohashes into lat/lon coordinates he could use in Tableau and I wasn't about to teach him Fortran90 for that (despite its _**superior**_ indexing conventions).
 
 ### What is my **tip-o-the-week**?
 Don't forget to merge your private and classroom repos. Whoops.
